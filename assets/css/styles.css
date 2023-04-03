@@ -926,6 +926,14 @@
 	.section-five .inner-list .inner-item img {
 		aspect-ratio: 5/2;
 	}
+	.section-five .inner-item .item-content .item-name,
+	.section-five .inner-item .item-content .inner-cost {
+		text-align: center;
+	}
+
+	.section-five .inner-item .item-content .inner-rate {
+		justify-content: center;
+	}
 }
 
 @media (max-width: 319.98px) {
