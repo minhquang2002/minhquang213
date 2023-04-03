@@ -1371,6 +1371,8 @@ input:focus {
 
 .footer .inner-wrap .inner-item {
 	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
 }
 
 .footer .inner-wrap .inner-item img {
